@@ -1,0 +1,5 @@
+users = []
+for i in range(10):
+    name = input("İsiminizi girin?")
+    users.append(name)
+print(users)
